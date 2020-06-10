@@ -1,4 +1,4 @@
-*Dans la lignée du hackaton Rénov'Action, le concours DataBât est l'occasion d'associer les forces et les talents pour agir sur la transition écologique en exploitant les données de la rénovation énergétique des bâtiments.*
+*Dans la lignée du hackaton Rénov'Action, le concours DataBât est l'occasion d'associer les forces et les talents pour agir sur la transition écologique, en exploitant les données de la rénovation énergétique des bâtiments.*
 
 ## Faire émerger de nouveaux services en faveur de la rénovation énergétique des bâtiments
 <p>Durant le concours, les participants devront s'appuyer sur les données pour faire émerger de nouveaux services qui proposeront une aide à la décision plus fine et favoriseront un changement de comportement à l'égard de la rénovation énergétique, pour les particuliers mais aussi pour les entreprises ou les acteurs publics.</p>
