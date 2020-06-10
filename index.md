@@ -1,14 +1,3 @@
----
-title: "Concours DataBât"
-author: "Prénom Nom"
-date: "10 Juin 2020"
-output: html_document
----
-
-# Concours DataBât
-<p>5 mois pour accélérer la rénovation énergétique des bâtiments<br>
-Rentrée 2020</p>
-
 *Dans la lignée du hackaton Rénov'Action, le concours DataBât est l'occasion d'associer les forces et les talents pour agir sur la transition écologique en exploitant les données de la rénovation énergétique des bâtiments.*
 
 ## Faire émerger de nouveaux services en faveur de la rénovation énergétique des bâtiments
