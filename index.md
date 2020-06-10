@@ -21,5 +21,5 @@
 ## Participez !
 <p>Vous souhaitez participer au concours seul ou en équipe,<br>
 Vous souhaitez mettre à disposition des données pour le concours,<br>
-Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,<br>
-[contactez-nous](https://airtable.com/shrIvhuesBJ9cBYek) !</p>
+Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,</p>
+[contactez-nous](https://airtable.com/shrIvhuesBJ9cBYek)!
