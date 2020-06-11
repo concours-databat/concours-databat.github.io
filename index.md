@@ -23,7 +23,7 @@ Organisatrice du concours, l'[Ademe](https://www.ademe.fr/) est acteur engagé e
 ## Participez !
 <p>Vous souhaitez participer au concours seul ou en équipe,<br>
 Vous souhaitez mettre à disposition des données pour le concours,<br>
-Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,</p>
-[contactez-nous](https://airtable.com/shrIvhuesBJ9cBYek) !
+Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,<br>
+complétez le formulaire ci-dessous !</p>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrIvhuesBJ9cBYek?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrIvhuesBJ9cBYek?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="900" style="background: transparent; border: 1px solid #ccc;"></iframe>
