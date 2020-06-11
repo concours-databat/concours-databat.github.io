@@ -18,7 +18,7 @@
 <p>Pour porter le changement, il faudra en particulier agir sur le deuxième poste d’émission de gaz à effet de serre : les émissions de CO2 des ménages en matière de chauffage et de refroidissement des bâtiments. La rénovation énergétique des logements et des bâtiments tertiaires pour réduire drastiquement la précarité énergétique et les passoires thermiques est un enjeu fondamental de la transition écologique. </p>
 
 ## L’ADEME : acteur pivot de la rénovation énergétique des bâtiments
-Organisatrice du concours, l'[Ademe](https://www.ademe.fr/) est acteur engagé et reconnu de la transition écologique. Son statut d’établissement public en fait l’acteur privilégié des entreprises, des collectivités locales, des pouvoirs publics et du grand public pour la mise en oeuvre effective des objectifs ambitieux du plan climat.
+Organisatrice du concours, l'[Ademe](https://www.ademe.fr/) est acteur engagé et reconnu de la transition écologique. Elle participe à la mise en oeuvre des politiques publiques dans les domaines de l’environnement, de l’énergie et du développement durable. Son statut d’établissement public en fait l’acteur privilégié des entreprises, des collectivités locales, des pouvoirs publics et du grand public pour la mise en oeuvre effective des objectifs ambitieux du plan climat.
 
 ## Participez !
 <p>Vous souhaitez participer au concours seul ou en équipe,<br>
