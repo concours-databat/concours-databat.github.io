@@ -21,7 +21,7 @@
 Organisatrice du concours, l'[ADEME](https://www.ademe.fr/) est un acteur engagé et reconnu de la transition écologique. Elle participe à la mise en oeuvre des politiques publiques dans les domaines de l’environnement, de l’énergie et du développement durable. Son statut d’établissement public en fait l’acteur privilégié des entreprises, des collectivités locales, des pouvoirs publics et du grand public pour la mise en oeuvre effective des objectifs ambitieux du plan climat.
 
 ## Participez !
-<p>Vous souhaitez participer au concours seul ou en équipe,<br>
+<p>Vous souhaitez participer au concours seul(e) ou en équipe,<br>
 Vous souhaitez mettre à disposition des données pour le concours,<br>
 Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,<br>
 complétez le formulaire ci-dessous !</p>
