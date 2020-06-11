@@ -26,4 +26,4 @@ Vous souhaitez mettre à disposition des données pour le concours,<br>
 Vous souhaitez participer à l'élaboration d'un défi auquel les participants devront répondre,<br>
 complétez le formulaire ci-dessous !</p>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrIvhuesBJ9cBYek?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="2200" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrIvhuesBJ9cBYek?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
